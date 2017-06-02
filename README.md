@@ -23,4 +23,4 @@ Recover private keys from a (corrupted) wallet.dat (Reddcoin)
 
 - Find your private keys in "keys.txt" in your working directory.
 
-#Reddcovery is free, but tips are cool: RiYmvK5XqbxCtmKK8vcFbU5YBWQ9DFq6h2
+# Reddcovery is free, but tips are cool: RiYmvK5XqbxCtmKK8vcFbU5YBWQ9DFq6h2
