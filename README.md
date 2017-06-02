@@ -22,3 +22,5 @@ Recover private keys from a (corrupted) wallet.dat (Reddcoin)
 		python reddcovery.py > keys.txt
 
 - Find your private keys in "keys.txt" in your working directory.
+
+#Reddcovery is free, but tips are cool: RiYmvK5XqbxCtmKK8vcFbU5YBWQ9DFq6h2
