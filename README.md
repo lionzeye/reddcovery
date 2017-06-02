@@ -9,6 +9,12 @@ Recover private keys from a (corrupted) wallet.dat (Reddcoin)
 
 ### Usage
 
+#### From a Windows executable:
+
+- https://github.com/lionzeye/reddcovery/releases/
+
+#### From scratch:
+
 - Start your command-prompt.
 - Change your working directory to a directory with our 'reddcovery.py' and 'wallet.dat'.
 - Start the script by executing: 
