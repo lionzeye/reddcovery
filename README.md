@@ -3,6 +3,10 @@ reddcovery
 
 Recover private keys from a (corrupted) wallet.dat (Reddcoin)
 
+### Alternatives
+
+I usually have more success using https://github.com/lionzeye/reddcointools
+
 ### Prerequisites
 - PyCoin https://pypi.python.org/pypi/pycoin/
 - Base58 https://pypi.python.org/pypi/base58/
